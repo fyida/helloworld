@@ -44,7 +44,7 @@ public class Conn {
 			e.printStackTrace();
 		}
 
-		System.out.println("执行插入语句成功");
+		//System.out.println("执行插入语句成功");
 	}
 	public void close() {
     	// 数据库的连接时有限资源，相关操作结束后，养成关闭数据库的好习惯
